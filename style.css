@@ -1,0 +1,30 @@
+h1 {
+  color: green;
+  font-size: 25px;
+  font-family: Arial, Tahoma, serif;
+  text-align: center;
+
+}
+h2 {
+color: olive;
+  font-size: 22px;
+  font-family: Arial, Tahoma, serif;
+  text-align: left;
+}
+h3 {
+color: black;
+  font-size: 19px;
+  font-family: Arial, Tahoma, serif;
+  text-align: center;
+}
+p {
+  color: black;
+  font-size: 16px;
+  font-family: Arial, Tahoma, serif
+}
+/* style rules for the links*/
+a:link {color: blue;}
+a:visited {color: darkblue;}
+a:hover {color: grey;}
+a:active {color: lightblue;}
+ 
