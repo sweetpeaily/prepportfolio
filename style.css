@@ -28,3 +28,9 @@ a:visited {color: darkblue;}
 a:hover {color: grey;}
 a:active {color: lightblue;}
  
+img {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+  
